@@ -46,3 +46,17 @@ group :development do
   # gem 'spring'
 end
 
+# used for debug
+gem 'pry'
+
+# used for jwt
+gem 'jwt'
+
+# used for faker
+gem 'faker'
+
+# used for dotenv
+gem 'dotenv-rails'
+
+# used for mysql connection
+gem 'mysql2'
